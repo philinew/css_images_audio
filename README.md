@@ -6,9 +6,16 @@ Welcome! This is the GitHub page for my class "Computational Social Science with
 
 This course introduces a broad array of computer vision and audio analysis tools. Students will learn to apply these tools to a variety of problems. The applications will focus on social science contexts, including economics, politics, and law. Students will learn how to featurize audio and visual content, build models based on these features (e.g., for classification), and evaluate the models -- both in terms of performance and societal implications.
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/philinew/css_images_audio/blob/main/data/design/dalle1.png" width="39%" />
-  <img src="https://github.com/philinew/css_images_audio/blob/main/data/design/dalle2.png" width="39%" /> 
+  <br>
+  <i>Picture by Dall-E, prompted to give "a symbol for computational social science".</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/philinew/css_images_audio/blob/main/data/design/dalle2.png" width="39%" />
+  <br>
+  <i>Picture by Dall-E, prompted to give an "artwork symbolizing computational social science".</i>
 </p>
 
 ## Content
@@ -18,3 +25,4 @@ Audio analysis and computer vision technologies have a considerable potential to
 ## Prerequisites
 
 Some Python programming skills are required (or a strong willingness to acquire these skills on the go). Some experience with text, image, or audio analysis is valuable but not required.
+
