@@ -1,6 +1,6 @@
 # Computational Social Science with Images and Audio
 
-Welcome! This is the GitHub page for my class "Computational Social Science with Images and Audio" at ETH Zurich.
+Welcome! This is the GitHub page for our class "Computational Social Science with Images and Audio" at ETH Zurich.
 
 ## Objectives
 
