@@ -64,14 +64,8 @@ There are two examination parts:
 
 - It takes place on **11 December 2026, 12:15** in the room as indicated in the ETH course catalogue. It won't take the full four hours, of course.
 - This part counts for **70% of your final grade**.
-- The exam will cover all the material from the slides, the tutorials, the compulsory reading (see below), and your colleagues' presentations. For the student presentations, we do not expect you to read all the original papers. However, the material covered by your colleagues in their presentations is exam-relevant. There will be no actual coding in the exam, but we might ask questions concerning code comprehension or pseudocode.
+- The exam will cover all the material from the slides and the readings mentioned therein, the tutorials, and your colleagues' presentations. For the student presentations, we do not expect you to read all the original papers. However, the material covered by your colleagues in their presentations is exam-relevant. There will be no actual coding in the exam, but we might ask questions concerning code comprehension or pseudocode.
 - To practice, you can use the exams of past editions and a mock exam: [exam 2025](archive/2025/exam/exam_2025.pdf), [mock exam 2025](archive/2025/exam/mock_exam_2025.pdf), and [exam 2023](archive/2023/exam/exam_2023.pdf). Please note that the covered material and the format of the exam change from year to year.
-
-## Compulsory reading
-
-Everyone reads the following paper. We introduce it in the session on audio analysis (30.10.2026), and it is exam-relevant.
-
-- Mestre and Ryan (2026), [Potential and Pitfalls of Audio as Data for Political Research: Alignment, Features, and Classification Models](https://doi.org/10.1017/pan.2025.10031), *Political Analysis* 34(3), 312–328 (open access). The authors use the televised U.S. presidential debates from 1960 to 2020 to show how to work with pitch, energy, MFCCs, and audio embeddings, and where the pitfalls are.
 
 ## List of papers that can be presented
 
