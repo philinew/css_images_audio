@@ -67,6 +67,14 @@ There are two examination parts:
 - The exam will cover all the material from the slides and the readings mentioned therein, the tutorials, and your colleagues' presentations. For the student presentations, we do not expect you to read all the original papers. However, the material covered by your colleagues in their presentations is exam-relevant. There will be no actual coding in the exam, but we might ask questions concerning code comprehension or pseudocode.
 - To practice, you can use the exams of past editions and a mock exam: [exam 2025](archive/2025/exam/exam_2025.pdf), [mock exam 2025](archive/2025/exam/mock_exam_2025.pdf), and [exam 2023](archive/2023/exam/exam_2023.pdf). Please note that the covered material and the format of the exam change from year to year.
 
+## Student presentation schedule
+
+Presentations take place on 9, 23, and 30 October 2026. We update this schedule as papers are assigned.
+
+| Date | Students | Paper |
+|---|---|---|
+| 23.10.2026 | Andrew Sangwoo Ye and Hyemin Yoon | Let's Face It: Quantifying the Impact of Nonverbal Communication in FOMC Press Conferences |
+
 ## List of papers that can be presented
 
 We present new papers every year. Where the published version is behind a paywall, we link a free version. Within the ETH network, you can access most journals directly.
