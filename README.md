@@ -75,6 +75,7 @@ Presentations take place on 9, 23, and 30 October 2026. We update this schedule 
 |---|---|---|
 | 09.10.2026 | Lehan Zhang | Joint Text-and-Image Clustering for Social Science Research |
 | 23.10.2026 | Andrew Sangwoo Ye and Hyemin Yoon | Let's Face It: Quantifying the Impact of Nonverbal Communication in FOMC Press Conferences |
+| 30.10.2026 | Aurel Kelterborn | Monitoring War Destruction from Space Using Machine Learning |
 
 ## List of papers that can be presented
 
