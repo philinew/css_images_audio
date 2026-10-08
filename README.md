@@ -85,7 +85,6 @@ We present new papers every year. Where the published version is behind a paywal
 
 | Paper | Authors and venue | Data and methods |
 |---|---|---|
-| [Machine Learning as a Tool for Hypothesis Generation](https://doi.org/10.1093/qje/qjad055) ([free version](https://www.nber.org/papers/w31017)) | Ludwig and Mullainathan (2024), *Quarterly Journal of Economics* | Mugshots, CNN, generated face morphs |
 | [Online Images Amplify Gender Bias](https://doi.org/10.1038/s41586-024-07068-x) | Guilbeault, Delecourt, Hull, Desikan, Chu, and Nadler (2024), *Nature* | Images from Google, Wikipedia, and IMDb; comparison with text; experiment |
 | [From Faces to Politics: Vision-Language Models (Sometimes) Link Visual Demographic Characteristics to Ideological Labels](https://doi.org/10.1017/pan.2026.10038) | Jeon, Lee, Montgomery, and Lai (2026), *Political Analysis* | Campaign ads, vision-language models as annotators |
 | [Generative Multimodal Models for Social Science: An Application with Satellite and Streetscape Imagery](https://doi.org/10.1177/00491241251339673) | Law and Roberto (2025), *Sociological Methods & Research* | Satellite and street-level images, GPT-4o, validation with expert labels |
