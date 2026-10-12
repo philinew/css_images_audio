@@ -69,14 +69,14 @@ There are two examination parts:
 
 ## Student presentation schedule
 
-Presentations take place on 9, 23, and 30 October and 6 November 2026. We update this schedule as papers are assigned.
+Presentations take place on 9, 23, and 30 October 2026. We update this schedule as papers are assigned.
 
 | Date | Students | Paper |
 |---|---|---|
 | 09.10.2026 | Lehan Zhang | Joint Text-and-Image Clustering for Social Science Research |
 | 23.10.2026 | Andrew Sangwoo Ye and Hyemin Yoon | Let's Face It: Quantifying the Impact of Nonverbal Communication in FOMC Press Conferences |
 | 30.10.2026 | Aleksander Rej | From Faces to Politics: Vision-Language Models (Sometimes) Link Visual Demographic Characteristics to Ideological Labels |
-| 06.11.2026 | Theodor Fragner and Julian Hellner | Monitoring War Destruction from Space Using Machine Learning |
+| 30.10.2026 | Aurel Kelterborn | Monitoring War Destruction from Space Using Machine Learning |
 
 ## List of papers that can be presented
 
