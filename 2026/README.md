@@ -20,4 +20,10 @@ This folder holds the material for the 2026 edition. We add the slides and the t
 - [Surveilling Surveillance](student_presentations/surveillance_hosswald.pdf) — Hannah Osswald
 - [Biased Auctioneers](student_presentations/Biased%20Auctioneers%20Presentation-1.pdf) — Alexander Kent
 
+## Student presentations, 30 October 2026
+
+- [Let's Face It](student_presentations/Ye_Yoon_CSS.pdf) (Andrew Sangwoo Ye and Hyemin Yoon)
+- [From Faces to Politics](student_presentations/Rej_From-Faces-to-Politics_slides_2026-10-30.pdf) (Aleksander Rej)
+- [Monitoring War Destruction from Space](student_presentations/War_Destruction_Talk.pdf) (Aurel Kelterborn and Basil Kohler)
+
 Looking for more examples? The [archive](../archive/) has the material from the 2023 and 2025 editions.
