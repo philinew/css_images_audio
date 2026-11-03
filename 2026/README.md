@@ -14,6 +14,10 @@ This folder holds the material for the 2026 edition. We add the slides and the t
 | 09.10.2026 | Slides [2a](slides/2a_session.pdf) and [2b](slides/2b_session.pdf) |
 | 30.10.2026 | Slides [4](slides/4_session.pdf) |
 
+## Student presentations — 9 October 2026
+
+- [Joint Text-and-Image Clustering for Social Science Research](student_presentations/zhang_leung_presentation_revised_overleaf__1_%20%281%29.pdf) — Lehan Zhang
+
 ## Student presentations — 23 October 2026
 
 - [Political Deepfakes](student_presentations/political_deepfakes_presentation.pdf) — Theodor Fragner and Julian Hellner
