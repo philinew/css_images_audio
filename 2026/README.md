@@ -12,7 +12,7 @@ This folder holds the material for the 2026 edition. We add the slides and the t
 |---|---|
 | 25.09.2026 | Slides [1a](slides/1a_session.pdf) and [1b](slides/1b_session.pdf), tutorial [1](tutorials/1_css_tutorial_intro.ipynb) |
 | 09.10.2026 | Slides [2a](slides/2a_session.pdf) and [2b](slides/2b_session.pdf) |
-| 30.10.2026 | Slides [4](slides/4_session.pdf) |
+| 30.10.2026 | Slides [4](slides/4_session.pdf), tutorial [4](tutorials/4_css_tutorial_audio_basics.ipynb) |
 
 ## Student presentations — 9 October 2026
 
